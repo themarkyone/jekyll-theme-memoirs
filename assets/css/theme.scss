@@ -22,7 +22,13 @@ body, input, button, select, optgroup, textarea {
 }
 body {
     line-height:1.7;
-    background: #f4f4f4;
+    background: #CEF6FF;
+    // background-image:url('./assets/images/space-background.gif');
+    // background-size:100%;
+    // background-repeat: repeat-y;
+    // background-attachment: fixed;
+    // height:100%;
+    // width:100%;
 }
 a {
     color: darken($primary, 24%);
