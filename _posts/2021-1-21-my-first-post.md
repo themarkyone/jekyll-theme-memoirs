@@ -3,7 +3,7 @@ layout: post
 title:  "可以看到吗？"
 author: xxxxsz
 categories: [ Lifestyle ]
-tags: [ XYZ ]
+tags: [ XYZ, 我 ]
 image: assets/images/2.jpg
 rating: 4.5
 ---
